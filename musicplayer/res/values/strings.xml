@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">project_music_player</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_activity_artist_songs">ArtistSongs</string>
+    <string name="title_activity_albulm_songs">AlbulmSongs</string>
+    <string name="title_activity_music_app">MusciApp</string>
+    <string name="title_activity_about_us">AboutUs</string>
+
+</resources>

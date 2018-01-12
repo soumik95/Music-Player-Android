@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.musicapp.MusicApp" >
+
+   
+    <item
+        android:id="@+id/omi1"
+        android:title="Equalizer"/>
+    <item
+        android:id="@+id/omi2"
+        android:title="Use as ringtone"/>
+    <item
+        android:id="@+id/omi3"
+        android:title="About us"/>
+    
+     <item
+        android:id="@+id/omi4"
+        android:title="EXIT"/>
+
+</menu>
